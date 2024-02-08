@@ -1,4 +1,4 @@
-# /home/ziaei/.config/sublime-text/Packages/User
+// /home/ziaei/.config/sublime-text/Packages/User
 {
     "cmd": ["/home/ziaei/Projects/cctv/cctv/bin/python3", "-u", "$file"],
     "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
